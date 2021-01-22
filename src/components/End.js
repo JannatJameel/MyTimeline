@@ -2,7 +2,7 @@ import '../App.css';
 
 const End = () => {
     return (
-    <li className="timeline-inverted">
+    <li>
         <div className="timeline-image">
             <h4>
                 And
